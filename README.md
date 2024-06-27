@@ -43,7 +43,8 @@ This contract was developed and tested using Remix IDE (remix.ethereum.org).
 ## Author
 
 Marielle Romana
-([421000169@ntc.edu.ph])
+
+NTC EMAIL: 421000169@ntc.edu.ph
 
 ## License
 
