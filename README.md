@@ -1,4 +1,4 @@
-# Module3 Types Of Function
+# Module 3 Types Of Function
 
 This Solidity smart contract, named Module3, extends ERC20 functionality with additional features including ownership management and custom transfer events.
 
